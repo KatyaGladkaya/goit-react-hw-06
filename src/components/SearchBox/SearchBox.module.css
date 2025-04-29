@@ -1,0 +1,13 @@
+.box {
+    margin-bottom: 18px;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.input {
+    margin-top: 10px;
+}

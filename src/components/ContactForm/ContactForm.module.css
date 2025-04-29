@@ -1,0 +1,20 @@
+.form {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 12px;
+    width: 300px;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.formlabel {
+    display: flex;
+    flex-direction: column;
+}
